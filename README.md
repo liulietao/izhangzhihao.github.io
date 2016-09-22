@@ -1,6 +1,6 @@
 # MyWay
 
-我的个人博客：<https://izhangzhihao.github.io/>，欢迎 Star 和 Fork。
+我的个人博客：<https://liulietao.github.io/>，欢迎 Star 和 Fork。
 
 ## 概览
 
@@ -9,7 +9,7 @@
 
 ## 效果预览
 
-### [在线预览 &rarr;](https://izhangzhihao.github.io/)
+### [在线预览 &rarr;](https://liulietao.github.io/)
 
 ## Fork 指南
 
