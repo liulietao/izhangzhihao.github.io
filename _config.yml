@@ -2,26 +2,26 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://izhangzhihao.github.io/
+url: https://liulietao.github.io/
 date_format: "ordinal"
 title: MyWay
-subtitle: "Make the impossible possible, the possible easy and the easy elegant"
-description: "张志豪的个人博客"
-keywords: 张志豪
+subtitle: "Stay Hungry. Stay Foolish"
+description: "刘列涛的个人博客"
+keywords: 刘列涛
 favicon: /favicon.ico
 timezone: Asia/Tangshan
 encoding: "utf-8"
-source_code: https://github.com/izhangzhihao/izhangzhihao.github.io
+source_code: https://github.com/liulietao/liulietao.github.io
 side_bar_repo_limit: 5
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: 张志豪
-organization: 华北理工大学
+author: 刘列涛
+organization: yk
 # organization_url: 
-location: Tangshan, China
-email: izhangzhihao@hotmail.com
+location: beijing, China
+email: 
 
 # ---------------- #
 #    Navigation    #
