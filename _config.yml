@@ -76,11 +76,11 @@ collections:
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: izhangzhihao
-facebook_username: izhangzhihao
-weibo_username: izhangzhihao
-zhihu_username: 张志豪
-twitter_username: izhangzhihao
+github_username: liulietao
+facebook_username: liulietao
+weibo_username: liulietao
+zhihu_username: 刘列涛
+twitter_username: liulietao
 
 # ---------------- #
 #      Comments    #
@@ -89,8 +89,8 @@ twitter_username: izhangzhihao
 comments_provider: disqus
 # !!!重要!!! 请修改下面两个用户名为你自己申请的
 # !!!Important!!! Please modify usernames below to yours
-duoshuo_username: mazhuang
-disqus_username: mzlogin
+#duoshuo_username: mazhuang
+#disqus_username: mzlogin
 
 # ---------------- #
 #    Analytics     #
